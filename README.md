@@ -17,4 +17,6 @@ This project was tested in WSL, providing a Linux-compatible environment on Wind
 source build.sh
 ```
 3. **run the simulator with trace and configuration files**
+```
 ./interrupts "program1.txt" "vector_table.txt" "device_table.txt" "external_files.txt"
+```
