@@ -1,0 +1,6 @@
+0, 1, switch to kernel mode
+1, 10, context saved
+11, 1, find vector 5 in memory position 0x000A
+12, 1, load address 0X048B into the PC
+13, 211, SYSCALL ISR (ADD STEPS HERE)
+224, 1, IRET

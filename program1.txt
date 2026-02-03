@@ -1,0 +1,6 @@
+CPU,30
+SYSCALL,4
+CPU,25
+END_IO,4
+EXEC,program2.txt
+CPU,15
