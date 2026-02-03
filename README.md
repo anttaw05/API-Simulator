@@ -12,7 +12,9 @@ This project was tested in WSL, providing a Linux-compatible environment on Wind
 ## Running the Simulator
 
 1. **Compile the code:**
-#run the build script
+#run the build scrip"
+```bash
 source build.sh
-2. **run the simulator with trace and configuration files**
+
+3. **run the simulator with trace and configuration files**
 ./interrupts "program1.txt" "vector_table.txt" "device_table.txt" "external_files.txt"
